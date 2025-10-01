@@ -1,0 +1,6 @@
+2025/02/23-00:55:49.147 1334c Reusing MANIFEST /home/oxsabbir/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/02/23-00:55:49.160 1334c Recovering log #3
+2025/02/23-00:55:49.160 1334c Reusing old log /home/oxsabbir/.config/vesktop/sessionData/Local Storage/leveldb/000003.log 
+2025/02/23-01:03:49.657 1334d Level-0 table #5: started
+2025/02/23-01:03:49.695 1334d Level-0 table #5: 24907 bytes OK
+2025/02/23-01:03:49.695 1334d Delete type=0 #3
