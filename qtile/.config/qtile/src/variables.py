@@ -69,14 +69,14 @@ layouts_restore = False
 
 # Top bar
 
-bar_top_margin = 7
-bar_bottom_margin = 7
-bar_left_margin = 7
-bar_right_margin = 7
+bar_top_margin = 3
+bar_bottom_margin = 5
+bar_left_margin = 0
+bar_right_margin = 0
 bar_size = 35
 bar_background_color = theme['background']
 bar_foreground_color = theme['foreground']
-bar_background_opacity = 0.8
+bar_background_opacity = 0
 bar_global_opacity = 1.0
 bar_border_opacity = 1.0
 bar_border_width = 0
@@ -115,7 +115,7 @@ widget_decoration_rect_border_width = 0
 widget_decoration_rect_border_color = theme["accent"]
 widget_decoration_rect_padding_x = 2
 widget_decoration_rect_padding_y = 4.75
-widget_decoration_rect_radius = 8
+widget_decoration_rect_radius = 6
 
 
 # Wallpapers
