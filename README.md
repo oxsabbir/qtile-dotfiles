@@ -7,3 +7,4 @@
 - Autostart : QTILE_CONFIG_DIR/src/autostart.sh
 
 These are defaults and are all editable.# qtile-desktop- okay
+# qtile-dotfiles
