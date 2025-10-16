@@ -365,6 +365,19 @@ middle = [
 right = [
     widget.StatusNotifier(), space,
     
+    widget.Net(
+        format='{down:.0f} {down_suffix} '  
+    ),
+    space,
+    
+    widget.Memory(
+        format='{MemUsed:.1f}{mm}/{MemTotal:.1f}{mm}',
+        measure_mem="G",
+        hide_decimal=False
+        
+    ),
+    space,
+
     widget.Volume(
         step=2,
         fmt=volume,

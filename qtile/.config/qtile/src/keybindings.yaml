@@ -210,7 +210,7 @@ Keychords:
 
       - mods: [*mod]
         key: h
-        command: lazy.spawn('/bin/sh -c "playerctl previous || mpc previous"')
+        command: lazy.spawn('/bin/sh -c "playerctl previous || mpc prev"')
 
       - mods: [*mod]
         key: l
